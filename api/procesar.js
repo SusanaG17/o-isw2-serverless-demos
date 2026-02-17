@@ -1,3 +1,4 @@
+//Comentario
 export default function handler(req, res) {
   const nombre = req.query.nombre || "anónimo";
 
